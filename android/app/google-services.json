@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "420811147824",
+    "project_id": "demowebrtc-bc56c",
+    "storage_bucket": "demowebrtc-bc56c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420811147824:android:92655cad1ac46c4d1b3bf5",
+        "android_client_info": {
+          "package_name": "com.demowebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420811147824-2q8hlpmk9gh0hcee1a2kc6pdjbe9aqp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demowebrtc",
+            "certificate_hash": "17424bfd93620fffcc66fea85befd5ed00afa55f"
+          }
+        },
+        {
+          "client_id": "420811147824-0jtls8oceluneuvbir8k6q62noqgsim1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhihEZAoorHr6TvPBFs5HrBJHfdJnS2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420811147824-0jtls8oceluneuvbir8k6q62noqgsim1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
